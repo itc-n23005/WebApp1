@@ -1,2 +1,2 @@
-# WebApp1
-WebApplication | Javascript&amp;React&amp;Next.js
+# WebApplication I
+JavaScript React Next.js
